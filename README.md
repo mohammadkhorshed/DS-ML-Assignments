@@ -57,7 +57,7 @@ This repository will be updated regularly as I complete new assignments. I plan 
 I’m always open to collaboration, feedback, and conversations around data and machine learning:
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/mohammadkhorshed)
-- 🌐 [Portfolio or Blog (optional)](https://insightixhub.com)
+- 🌐 [Website](https://insightixhub.com)
 
 ---
 
