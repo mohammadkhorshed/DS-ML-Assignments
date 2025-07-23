@@ -1,6 +1,6 @@
 # 🧠 DS-ML-Assignments
 
-This repository contains a collection of assignments and practical notebooks from my **Data Science and Machine Learning** course. These assignments are completed using **Python** and are designed to strengthen my understanding of essential DS/ML concepts through hands-on practice.
+This repository contains a collection of assignments and practical notebooks from my **Data Science and Machine Learning** course at **AI Quest Intelligence**. These assignments are completed using **Python** and are designed to strengthen my understanding of essential DS/ML concepts through hands-on practice.
 
 ---
 
@@ -21,6 +21,7 @@ Each file in this repository is a self-contained assignment in `.ipynb` format, 
 ```bash
 DS-ML-Assignments/
 ├── assignment_01.ipynb
+├── assignment_02.ipynb
 
 ```
 
