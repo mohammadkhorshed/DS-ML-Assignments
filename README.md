@@ -22,6 +22,8 @@ Each file in this repository is a self-contained assignment in `.ipynb` format, 
 DS-ML-Assignments/
 ├── assignment_01.ipynb
 ├── assignment_02.ipynb
+├── assignment_03.ipynb
+├── assignment_04 (kaggle): https://tinyurl.com/asgmt4
 
 ```
 
