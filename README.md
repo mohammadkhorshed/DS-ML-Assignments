@@ -20,10 +20,11 @@ Each file in this repository is a self-contained assignment in `.ipynb` format, 
 
 ```bash
 DS-ML-Assignments/
-├── assignment_01.ipynb
-├── assignment_02.ipynb
-├── assignment_03.ipynb
-├── assignment_04 (kaggle): https://tinyurl.com/asgmt4
+├── assignment_01.ipynb: Basic Python Problems
+├── assignment_02.ipynb: 118 Problems on Python
+├── assignment_03.ipynb: Linear Regression
+├── assignment_04 (kaggle - https://tinyurl.com/asgmt4): Regression on High-Dimensional Space (Linear, Ridge, and Lasso Regression)
+├── assignment_05.ipynb: Comparison between KNN Regressor and Linear Regression, and KNN Classifier and  Logistic Regression
 
 ```
 
