@@ -25,6 +25,7 @@ DS-ML-Assignments/
 ├── assignment_03.ipynb: Linear Regression
 ├── assignment_04 (kaggle - https://tinyurl.com/asgmt4): Regression on High-Dimensional Space (Linear, Ridge, and Lasso Regression)
 ├── assignment_05.ipynb: Comparison between KNN Regressor and Linear Regression, and KNN Classifier and  Logistic Regression
+├── assignment_06.ipynb: Predicting Car Prices with Machine Learning
 
 ```
 
@@ -35,7 +36,10 @@ Each assignment builds on previous knowledge and introduces new concepts gradual
 ## 🛠 Tools & Libraries Used
 
 - Python 3.13  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Numpy
+- Pandas
+- SciKit-Learn  
 
 
 ---
