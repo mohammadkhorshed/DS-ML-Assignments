@@ -23,7 +23,7 @@ DS-ML-Assignments/
 ├── assignment_01.ipynb: Basic Python Problems
 ├── assignment_02.ipynb: 118 Problems on Python
 ├── assignment_03.ipynb: Linear Regression
-├── assignment_04 (kaggle - https://tinyurl.com/asgmt4): Regression on High-Dimensional Space (Linear, Ridge, and Lasso Regression)
+├── assignment_04 ([Kaggle Assignment] (https://tinyurl.com/asgmt4)): Regression on High-Dimensional Space (Linear, Ridge, and Lasso Regression)
 ├── assignment_05.ipynb: Comparison between KNN Regressor and Linear Regression, and KNN Classifier and  Logistic Regression
 ├── assignment_06.ipynb: Predicting Car Prices with Machine Learning
 
@@ -39,7 +39,9 @@ Each assignment builds on previous knowledge and introduces new concepts gradual
 - Jupyter Notebook
 - Numpy
 - Pandas
-- SciKit-Learn  
+- SciKit-Learn
+- Matplotlib
+- Seaborn  
 
 
 ---
