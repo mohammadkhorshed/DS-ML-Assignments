@@ -23,9 +23,10 @@ DS-ML-Assignments/
 ├── assignment_01.ipynb: Basic Python Problems
 ├── assignment_02.ipynb: 118 Problems on Python
 ├── assignment_03.ipynb: Linear Regression
-├── assignment_04 ([Kaggle Assignment] (https://tinyurl.com/asgmt4)): Regression on High-Dimensional Space (Linear, Ridge, and Lasso Regression)
+├── assignment_04 [Kaggle] (https://tinyurl.com/asgmt4): Regression on High-Dimensional Space (Linear, Ridge, and Lasso Regression)
 ├── assignment_05.ipynb: Comparison between KNN Regressor and Linear Regression, and KNN Classifier and  Logistic Regression
 ├── assignment_06.ipynb: Predicting Car Prices with Machine Learning
+├── assignment_07.ipynb: Clustering of Wine Dataset using Kmeans
 
 ```
 
