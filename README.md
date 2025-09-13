@@ -27,6 +27,8 @@ DS-ML-Assignments/
 ├── assignment_05.ipynb: Comparison between KNN Regressor and Linear Regression, and KNN Classifier and  Logistic Regression
 ├── assignment_06.ipynb: Predicting Car Prices with Machine Learning
 ├── assignment_07.ipynb: Clustering of Wine Dataset using Kmeans
+├── assignment_08.ipynb: Heart Failure Prediction
+
 
 ```
 
